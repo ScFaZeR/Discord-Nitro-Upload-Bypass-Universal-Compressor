@@ -2,6 +2,12 @@
 
 [ 🇫🇷 Français | 🇬🇧 English | 🇷🇺 Русский | 🇪🇸 Español | 🇨🇳 中文 ]
 
+<img width="694" height="750" alt="image" src="https://github.com/user-attachments/assets/2c933b77-4e31-42b9-bf24-5d20b0380568" />
+<img width="697" height="746" alt="image" src="https://github.com/user-attachments/assets/07fdbde4-a8b2-4f7c-b0e8-52a8c9758b81" />
+<img width="701" height="754" alt="image" src="https://github.com/user-attachments/assets/fb624906-3047-4716-8cc9-236fcc2b9880" />
+<img width="701" height="753" alt="image" src="https://github.com/user-attachments/assets/25e742ff-5ca7-49b9-9ff2-67cef8f165ef" />
+
+
 ---
 
 ## 🇫🇷 Français
