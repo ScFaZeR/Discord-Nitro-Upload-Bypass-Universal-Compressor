@@ -1,4 +1,4 @@
-# 🚀 Discord Nitro Bypass (Universal Compressor)
+# Discord Nitro Bypass (Universal Compressor)
 
 [ 🇫🇷 Français | 🇬🇧 English | 🇷🇺 Русский | 🇪🇸 Español | 🇨🇳 中文 ]
 
