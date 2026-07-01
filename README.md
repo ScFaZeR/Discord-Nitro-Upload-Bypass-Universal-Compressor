@@ -5,14 +5,11 @@
 <img width="697" height="746" alt="image" src="https://github.com/user-attachments/assets/07fdbde4-a8b2-4f7c-b0e8-52a8c9758b81" />
 <img width="701" height="753" alt="image" src="https://github.com/user-attachments/assets/25e742ff-5ca7-49b9-9ff2-67cef8f165ef" />
 
-
----
-
 ## 🇫🇷 Français
 
 **Envoyez des fichiers jusqu'à 500 Mo sur Discord sans payer d'abonnement Nitro.**
 
-Discord Limit Bypass (Universal Compressor) est un logiciel bureau ultra-rapide qui réduit instantanément la taille de vos vidéos, images et audios. Glissez simplement vos fichiers, choisissez votre limite (10 Mo, 500 Mo ou personnalisé), et le logiciel optimise le fichier pour contourner les restrictions d'envoi de Discord sans perte de qualité visible.
+Discord Limit Bypass (Universal Compressor) est un logiciel bureau ultra-rapide qui réduit instantanément la taille de vos vidéos, images et audios. Glissez simplement vos fichiers, choisissez votre limite (10 Mo, 500 Mo ou personnalisé), et le logiciel optimise le fichier pour contourner les restrictions d'envoi de Discord. *(Note : Compresser une vidéo de 1 Go en 10 Mo entraînera évidemment une perte de qualité visuelle, la physique a ses limites !)*
 
 ### ⚙️ Installation
 1. Téléchargez le fichier **Installer_UniversalCompressor.exe** dans l'onglet **Releases** de Github.
@@ -35,7 +32,7 @@ Discord Limit Bypass (Universal Compressor) est un logiciel bureau ultra-rapide 
 
 **Upload files up to 500MB on Discord without paying for a Nitro subscription.**
 
-Discord Limit Bypass (Universal Compressor) is a lightning-fast desktop software that instantly shrinks your videos, images, and audio files. Simply drag and drop your files, pick your target size limit (10MB, 500MB, or custom), and the software will optimize the file to bypass Discord's upload restrictions with no visible quality loss.
+Discord Limit Bypass (Universal Compressor) is a lightning-fast desktop software that instantly shrinks your videos, images, and audio files. Simply drag and drop your files, pick your target size limit (10MB, 500MB, or custom), and the software will optimize the file to bypass Discord's upload restrictions. *(Note: Shrinking a 1GB video down to 10MB will inevitably result in a loss of visual quality, physics has its limits!)*
 
 ### ⚙️ Installation
 1. Download the **Installer_UniversalCompressor.exe** file from the Github **Releases** tab.
@@ -58,7 +55,7 @@ Discord Limit Bypass (Universal Compressor) is a lightning-fast desktop software
 
 **Отправляйте файлы размером до 500 МБ в Discord без подписки Nitro.**
 
-Discord Limit Bypass (Universal Compressor) — это молниеносная настольная программа, которая мгновенно сжимает ваши видео, изображения и аудио. Просто перетащите файлы, выберите лимит размера (10 МБ, 500 МБ или свой) и программа оптимизирует файл, чтобы обойти ограничения Discord без видимой потери качества.
+Discord Limit Bypass (Universal Compressor) — это молниеносная настольная программа, которая мгновенно сжимает ваши видео, изображения и аудио. Просто перетащите файлы, выберите лимит размера (10 МБ, 500 МБ или свой) и программа оптимизирует файл, чтобы обойти ограничения Discord. *(Примечание: Сжатие видео размером 1 ГБ до 10 МБ неизбежно приведет к потере визуального качества, физика имеет свои пределы!)*
 
 ### ⚙️ Установка
 1. Загрузите файл **Installer_UniversalCompressor.exe** на вкладке **Releases** в Github.
@@ -81,7 +78,7 @@ Discord Limit Bypass (Universal Compressor) — это молниеносная 
 
 **Envía archivos de hasta 500 MB en Discord sin pagar una suscripción a Nitro.**
 
-Discord Limit Bypass (Universal Compressor) es un software de escritorio ultrarrápido que reduce instantáneamente el tamaño de tus videos, imágenes y audios. Simplemente arrastra y suelta tus archivos, elige tu límite (10 MB, 500 MB o personalizado), y el software optimizará el archivo para evitar las restricciones de Discord sin pérdida de calidad visible.
+Discord Limit Bypass (Universal Compressor) es un software de escritorio ultrarrápido que reduce instantáneamente el tamaño de tus videos, imágenes y audios. Simplemente arrastra y suelta tus archivos, elige tu límite (10 MB, 500 MB o personalizado), y el software optimizará el archivo para evitar las restricciones de Discord. *(Nota: Comprimir un video de 1 GB a 10 MB resultará inevitablemente en una pérdida de calidad visual, ¡la física tiene sus límites!)*
 
 ### ⚙️ Instalación
 1. Descarga el archivo **Installer_UniversalCompressor.exe** desde la pestaña **Releases** de Github.
@@ -104,7 +101,7 @@ Discord Limit Bypass (Universal Compressor) es un software de escritorio ultrarr
 
 **在无需购买 Nitro 订阅的情况下，在 Discord 上发送高达 500MB 的文件。**
 
-Discord Limit Bypass (Universal Compressor) 是一款极速的桌面软件，能瞬间缩小你的视频、图片和音频文件。只需拖放文件，选择目标大小限制（10MB、500MB 或自定义），软件即可优化文件以绕过 Discord 的上传限制，且无明显的画质损失。
+Discord Limit Bypass (Universal Compressor) 是一款极速的桌面软件，能瞬间缩小你的视频、图片和音频文件。只需拖放文件，选择目标大小限制（10MB、500MB 或自定义），软件即可优化文件以绕过 Discord 的上传限制。 *(注意：将 1GB 的视频压缩到 10MB 必然会导致画质下降，物理规律是有极限的！)*
 
 ### ⚙️ 安装说明
 1. 从 Github 的 **Releases** 选项卡下载 **Installer_UniversalCompressor.exe** 文件。
@@ -118,5 +115,7 @@ Discord Limit Bypass (Universal Compressor) 是一款极速的桌面软件，能
 - 基于 FFmpeg 的极速压缩。
 
 ### 🤝 实用链接
+- **加入 Discord：** [点击这里](https://discord.gg/MsguHxUfGX)
+- **捐赠：** [通过 PayPal 支持本项目](https://www.paypal.com/paypalme/scfazer)
 - **加入 Discord：** [点击这里](https://discord.gg/MsguHxUfGX)
 - **捐赠：** [通过 PayPal 支持本项目](https://www.paypal.com/paypalme/scfazer)
